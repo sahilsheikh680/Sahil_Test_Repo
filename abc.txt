@@ -1,1 +1,1 @@
-this is my first file on my local repo.
+this is my first file on my local repo. This text is just for testing purpose. How it will look in merger branch.
